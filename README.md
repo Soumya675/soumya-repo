@@ -1,3 +1,3 @@
 # soumya-repo
-My first repositary
+My first repositary.
 Author-Soumya Ranjan Parida
